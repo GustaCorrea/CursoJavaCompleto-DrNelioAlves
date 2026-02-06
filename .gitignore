@@ -1,0 +1,8 @@
+bin/
+.settings/
+.classpath
+.project
+*.class
+/.metadata/
+db.properties
+jdbc*/
